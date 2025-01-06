@@ -23,6 +23,10 @@ BackgroundMusic="*res://scenes/background_music.tscn"
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/proton_scatter/plugin.cfg")
+
 [input]
 
 ui_up={
