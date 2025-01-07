@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tu24cjkiwjkt"
+path="res://.godot/imported/AK47NoSubdiv.obj-0110a09d387a8a9b0341659be1b21e35.mesh"
+
+[deps]
+
+files=["res://.godot/imported/AK47NoSubdiv.obj-0110a09d387a8a9b0341659be1b21e35.mesh"]
+
+source_file="res://assets/AK-47/AK47NoSubdiv.obj"
+dest_files=["res://.godot/imported/AK47NoSubdiv.obj-0110a09d387a8a9b0341659be1b21e35.mesh", "res://.godot/imported/AK47NoSubdiv.obj-0110a09d387a8a9b0341659be1b21e35.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
