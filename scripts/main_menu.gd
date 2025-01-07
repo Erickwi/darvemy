@@ -33,7 +33,7 @@ func actualizar_boton_sonido():
 		$Musica.icon = preload("res://assets/music_icon.png")
 
 func _on_play_pressed() -> void:
-	get_tree().change_scene_to_file("res://scenes/EscenaBosque.tscn")
+	get_tree().change_scene_to_file("res://addons/proton_scatter/scenario_day.tscn")
 
 func _on_opciones_pressed() -> void:
 	color_rect.visible = true
